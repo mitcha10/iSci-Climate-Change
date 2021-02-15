@@ -19,13 +19,13 @@ DeSmog, n.d. *Willis Eschenbach*. [online] DeSmog. Available at: <https://<span>
 
 Eschenbach, W., 2021. *Shafting The Poor*. [online] Watts Up With That? Available at: <https://<span></span>wattsupwiththat.com/2021/02/05/shafting-the-poor/> [Accessed 14 Feb. 2021].
 
-International Energy Agency, 2020. *Energy Prices 2020 – Analysis*. [online] IEA. Available at: <https://www.iea.org/reports/energy-prices-2020> [Accessed 14 Feb. 2021].
+International Energy Agency, 2020. *Energy Prices 2020 – Analysis*. [online] IEA. Available at: <https://<span></span>w<span>ww.</span>iea.org/reports/energy-prices-2020> [Accessed 14 Feb. 2021].
 
 Lee, S. and Chong, W.O., 2016. Causal relationships of energy consumption, price, and CO2 emissions in the U.S. building sector. *Resources, Conservation & Recycling*, 107, pp.220–226.
 
 Lynne Chester, 2014. The Growing Un-affordability of Energy for Households and the Consequences. *The Energy Forum*, Second Quarter, pp.23–27.
 
-Ritchie, H. and Roser, M., 2017. CO₂ and Greenhouse Gas Emissions. *Our World in Data*. [online] Available at: <https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions> [Accessed 14 Feb. 2021].
+Ritchie, H. and Roser, M., 2017. CO₂ and Greenhouse Gas Emissions. *Our World in Data*. [online] Available at: <https://<span></span>ourworldindata.org/co2-and-other-greenhouse-gas-emissions> [Accessed 14 Feb. 2021].
 
 Tuttle, C., 2017. Unexpected Hikes in Energy Prices Increase the Likelihood of Food Insecurity. *Amber Waves: The Economics of Food, Farming, Natural Resources, & Rural America*, pp.9–17.
 
