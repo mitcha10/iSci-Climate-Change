@@ -17,7 +17,7 @@ Eschenbach’s contrary claim, suggesting that increasing electricity and gasoli
 ## References
 DeSmog, n.d. *Willis Eschenbach*. [online] DeSmog. Available at: <https://www.desmogblog.com/willis-eschenbach> [Accessed 14 Feb. 2021].
 
-Eschenbach, W., 2021. *Shafting The Poor*. [online] Watts Up With That? Available at: <https://wattsupwiththat.com/2021/02/05/shafting-the-poor/> [Accessed 14 Feb. 2021].
+Eschenbach, W., 2021. *Shafting The Poor*. [online] Watts Up With That? Available at: <https://<span></span>wattsupwiththat.com/2021/02/05/shafting-the-poor/> [Accessed 14 Feb. 2021].
 
 International Energy Agency, 2020. *Energy Prices 2020 – Analysis*. [online] IEA. Available at: <https://www.iea.org/reports/energy-prices-2020> [Accessed 14 Feb. 2021].
 
