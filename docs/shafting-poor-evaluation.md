@@ -15,7 +15,7 @@ With regard to the accuracy of Eschenbach’s claims, several more credible sour
 Eschenbach’s contrary claim, suggesting that increasing electricity and gasoline prices are ineffective at reducing CO<sub>2</sub> emissions and lead to energy poverty, are consistent with credible sources, but are presented in an uncredible manner. 
 
 ## References
-DeSmog, n.d. *Willis Eschenbach*. [online] DeSmog. Available at: <https://www.desmogblog.com/willis-eschenbach> [Accessed 14 Feb. 2021].
+DeSmog, n.d. *Willis Eschenbach*. [online] DeSmog. Available at: <https://<span></span>w<span>ww.</span>desmogblog.com/willis-eschenbach> [Accessed 14 Feb. 2021].
 
 Eschenbach, W., 2021. *Shafting The Poor*. [online] Watts Up With That? Available at: <https://<span></span>wattsupwiththat.com/2021/02/05/shafting-the-poor/> [Accessed 14 Feb. 2021].
 
