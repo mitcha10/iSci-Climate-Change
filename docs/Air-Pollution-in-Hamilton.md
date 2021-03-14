@@ -8,5 +8,4 @@ Hamilton’s industrial history has resulted in air pollutants consistently bein
 ## Air Pollutants in Hamilton
 There are three important pollutants that we will focus on: nitrogen oxides (NO<sub>x</sub>), ozone (O<sub>3</sub>), and fine particulate matter (PM<sub>2.5</sub>).
 
-
-
+<img width="466" alt="image" src="https://user-images.githubusercontent.com/78554922/111086260-8e0af680-84f1-11eb-90b5-a637ce62b7c2.png">
