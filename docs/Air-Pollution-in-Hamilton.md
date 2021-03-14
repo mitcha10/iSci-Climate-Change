@@ -42,9 +42,9 @@ Many organizations in Hamilton aim to reduce the impact of climate change. The H
 Air pollutants are a byproduct of factors that contribute to climate change. They are important to the discussion of climate change for several reasons including health impacts to humans. Identifying areas of concern is the first step to combating Hamilton’s air pollution.
 
 ### References 
-Air Quality Ontario, 2017. *Air Pollutant Data*. [online] Available at: <http://www.airqualityontario.com/history/index.php> [Accessed 7 Mar. 2021].
+Air Quality Ontario, 2017. *Air Pollutant Data*. [online] Available at: <http://w<span>ww.</span>airqualityontario.com/history/index.php> [Accessed 7 Mar. 2021].
 Al-Dabbagh, O., 2011. *Hamilton’s Air Quality: Status and Expected*. pdf. McMaster University.
-Buist, S., Johnston, N. and DeLuca, P., 2013. *Code Red*. [online] Code Red The Spec. Available at: <https://codered.thespec.io/> [Accessed 6 Mar. 2021].
+Buist, S., Johnston, N. and DeLuca, P., 2013. *Code Red*. [online] Code Red The Spec. Available at: <https://<span></span>codered.thespec.io/> [Accessed 6 Mar. 2021].
 Clean Air Hamilton, 2021. Clean Air Hamilton – Dedicated to improving air quality in Hamilton’s community. Available at: <https://cleanairhamilton.ca/> [Accessed 7 Mar. 2021].
 DeLuca, P., 2013. *Percentage of People 15 Years and Older Living Below Poverty Line*. Code Red Project. Available at: <https://storymaps.arcgis.com/stories/29dcebcbb83448989f8ca0a8d2d49158>.
 Environment and Climate Change Canada, 2010. *Common air pollutants: nitrogen oxides*. [program descriptions] Government of Canada. Available at: <https://www.canada.ca/en/environment-climate-change/services/air-pollution/pollutants/common-contaminants/nitrogen-oxides.html> [Accessed 7 Mar. 2021].
