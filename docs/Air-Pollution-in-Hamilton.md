@@ -8,7 +8,7 @@ Hamilton’s industrial history has resulted in air pollutants consistently bein
 ## Air Pollutants in Hamilton
 There are three important pollutants that we will focus on: nitrogen oxides (NO<sub>x</sub>), ozone (O<sub>3</sub>), and fine particulate matter (PM<sub>2.5</sub>).
 
-<img width="466" alt="image" src="https://user-images.githubusercontent.com/78554922/111086260-8e0af680-84f1-11eb-90b5-a637ce62b7c2.png">
+<img width="940" alt="image" src="https://user-images.githubusercontent.com/78554922/111086260-8e0af680-84f1-11eb-90b5-a637ce62b7c2.png">
 
 *Figure 1: This figure describes the three main air pollutants in Hamilton and their associated health and environmental implications.*
 
@@ -20,11 +20,13 @@ The Air Quality Health Index (AQHI) is a scale indicating the cumulative health 
 
 *Table 1: Environment Canada Air Quality Index (AQHI) messages. At-risk population refers to individuals with heart or breathing problems. Adapted from Radisic et al., 2016.*
 
-<img width="865" alt="Screen Shot 2021-03-14 at 6 28 52 PM" src="https://user-images.githubusercontent.com/78554922/111086567-2a81c880-84f3-11eb-8584-382005c09309.png">
+<p align="center">
+<img width="800" alt="Screen Shot 2021-03-14 at 6 28 52 PM" src="https://user-images.githubusercontent.com/78554922/111086567-2a81c880-84f3-11eb-8584-382005c09309.png">
+</p>
 
 In Hamilton, there is a trend of higher socioeconomic status (SES) in the suburban areas surrounding the city and lower SES in the lower city (Radisic et al., 2016). In lower SES neighborhoods that surround the city’s industrial corridor, there is a higher incidence of air pollution-related disease, like cancer (Buist, Johnston and DeLuca, 2013). 
 
-<img width="487" alt="image" src="https://user-images.githubusercontent.com/78554922/111086579-353c5d80-84f3-11eb-8372-e72d34cc4e2b.png">
+<img width="487" alt="Table with AQHI Values and Associated Recommended Behaviours" src="https://user-images.githubusercontent.com/78554922/111086579-353c5d80-84f3-11eb-8372-e72d34cc4e2b.png">
 
 *Figure 2: This figure depicts the locations of the three air quality data stations that are analyzed below: Hamilton West, Hamilton Downtown, and Hamilton Mountain. The locations of these stations are overlayed on a map of Hamilton that demonstrates socioeconomic status through the city and surrounding areas (adapted from DeLuca, 2013).*
 
