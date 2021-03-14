@@ -1,3 +1,4 @@
+# Air Pollution in Hamilton
 #### March 14, 2021   |   Ariana Mitchell, Grace Gabber, Kate Jamieson, and Sarah Watson
 
 ## Introduction 
