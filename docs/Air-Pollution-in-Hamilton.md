@@ -34,7 +34,9 @@ In Hamilton, there is a trend of higher socioeconomic status (SES) in the suburb
 
 *Figure 2: This figure depicts the locations of the three air quality data stations that are analyzed below: Hamilton West, Hamilton Downtown, and Hamilton Mountain. The locations of these stations are overlayed on a map of Hamilton that demonstrates socioeconomic status through the city and surrounding areas (adapted from DeLuca, 2013).*
 
-<img width="700" alt="image" src="https://user-images.githubusercontent.com/78554922/111086592-42f1e300-84f3-11eb-9a6f-b4bb45365050.png">
+<p align="center">
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/78554922/111086592-42f1e300-84f3-11eb-9a6f-b4bb45365050.png">
+</p>
 
 *Figure 3: Concentrations (ppb) of Nitrogen Dioxide (NO2) [A], Ozone (O3) [B], and Fine Particulate Matter (PM2.5) [C]. Data is shown for three locations in Hamilton (see Figure 2) and averaged across several years as well as between months. As of 2013, the PM2.5 air monitoring method was changed to better detect fine particles, especially during the winter months, so the increase in 2013 and beyond does not necessarily reflect an actual trend but instead a more accurate reading. (data from (Air Quality Ontario, 2017).*
 
