@@ -1,6 +1,6 @@
 # Air Pollution in Hamilton
-### Ariana Mitchell, Grace Gabber, Kate Jamieson, and Sarah Watson
-### March 14, 2021
+
+#### March 14, 2021   |   Ariana Mitchell, Grace Gabber, Kate Jamieson, and Sarah Watson
 
 ## Introduction 
 Hamilton’s industrial history has resulted in air pollutants consistently being a concern, as they are linked to health-related impacts (Al-Dabbagh, 2011). We explore Hamilton’s contribution to this crisis by visualizing the trends in air pollutants over several years in three locations within the city. Current projects within the Hamilton community that aim to mitigate air pollution are also discussed. 
