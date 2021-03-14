@@ -49,9 +49,9 @@ Clean Air Hamilton, 2021. Clean Air Hamilton – Dedicated to improving air qual
 DeLuca, P., 2013. *Percentage of People 15 Years and Older Living Below Poverty Line*. Code Red Project. Available at: <https://<span></span>storymaps.arcgis.com/stories/29dcebcbb83448989f8ca0a8d2d49158>.
 Environment and Climate Change Canada, 2010. *Common air pollutants: nitrogen oxides*. [program descriptions] Government of Canada. Available at: <https://<span></span>w<span>ww.</span>canada.ca/en/environment-climate-change/services/air-pollution/pollutants/common-contaminants/nitrogen-oxides.html> [Accessed 7 Mar. 2021].
 Filleul, L., Baldi, I., Dartigues, J. and Tessier, J., 2003. Risk factors among elderly for short term deaths related to high levels of air pollution. *Occupational and Environmental Medicine*, 60(9), pp.684–688.
-Hamilton, C. of, 2020. *Community Energy and Emissions Plan*. [Text] Available at: <https://www.hamilton.ca/city-initiatives/priority-projects/community-energy-and-emissions-plan> [Accessed 7 Mar. 2021].
-US EPA, 2019. *Nitrogen Oxides Control Regulations*. [Overviews & Factsheets,] Available at: <https://www3.epa.gov/region1/airquality/nox.html> [Accessed 7 Mar. 2021].
-US EPA, O., 2015. *Ground-level Ozone Basics*. [Overviews and Factsheets] US EPA. Available at: <https://www.epa.gov/ground-level-ozone-pollution/ground-level-ozone-basics> [Accessed 7 Mar. 2021].
-World Heatlh Organization, 2019. *Health consequences of air pollution on populations*. [online] Available at: <https://www.who.int/news/item/15-11-2019-what-are-health-consequences-of-air-pollution-on-populations> [Accessed 1 Mar. 2021].
+Hamilton, C. of, 2020. *Community Energy and Emissions Plan*. [Text] Available at: <https://<span></span>w<span>ww.</span>hamilton.ca/city-initiatives/priority-projects/community-energy-and-emissions-plan> [Accessed 7 Mar. 2021].
+US EPA, 2019. *Nitrogen Oxides Control Regulations*. [Overviews & Factsheets,] Available at: <https://<span></span>w<span>ww3.</span>epa.gov/region1/airquality/nox.html> [Accessed 7 Mar. 2021].
+US EPA, O., 2015. *Ground-level Ozone Basics*. [Overviews and Factsheets] US EPA. Available at: <https://<span></span>w<span>ww.</span>epa.gov/ground-level-ozone-pollution/ground-level-ozone-basics> [Accessed 7 Mar. 2021].
+World Heatlh Organization, 2019. *Health consequences of air pollution on populations*. [online] Available at: <https://<span></span>w<span>ww.</span>who.int/news/item/15-11-2019-what-are-health-consequences-of-air-pollution-on-populations> [Accessed 1 Mar. 2021].
 
 
